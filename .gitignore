@@ -1,0 +1,6 @@
+/.cursor
+/null_results
+/data
+*.pkl
+/__pycache__
+/others
